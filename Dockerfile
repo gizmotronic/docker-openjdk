@@ -1,1 +1,1 @@
-openjdk8/Dockerfile
+openjdk9/Dockerfile
