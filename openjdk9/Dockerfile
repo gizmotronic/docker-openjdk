@@ -5,10 +5,12 @@
 # Pull base image.
 FROM ubuntu:16.04
 
+ARG version=9~b114-0ubuntu1
+
 # Install Java.
 RUN \
   apt-get update && \
-  apt-get install -y openjdk-9-jdk-headless=9~b114-0ubuntu1 && \
+  apt-get install -y openjdk-9-jdk-headless=${version} && \
   rm -rf /var/lib/apt/lists/*
 
 
