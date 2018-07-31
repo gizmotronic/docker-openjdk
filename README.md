@@ -1,6 +1,6 @@
 # Supported tags and respective `Dockerfile` links
 
-* `java8`, `latest`, `8u151` [(Dockerfile)](https://github.com/gizmotronic/docker-openjdk/blob/master/openjdk8/Dockerfile)
+* `java8`, `latest`, `8u171` [(Dockerfile)](https://github.com/gizmotronic/docker-openjdk/blob/master/openjdk8/Dockerfile)
 * `java9`, `9b114` [(Dockerfile)](https://github.com/gizmotronic/docker-openjdk/blob/master/openjdk9/Dockerfile)
 
 # Base Docker Image
