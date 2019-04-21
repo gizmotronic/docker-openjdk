@@ -3,9 +3,9 @@
 #
 
 # Pull base image.
-FROM ubuntu:16.04
+FROM ubuntu:18.04
 
-ARG version=8u171-b11-0ubuntu0.16.04.1
+ARG version=8u191-b12-2ubuntu0.18.04.1
 
 # Install Java.
 RUN \
