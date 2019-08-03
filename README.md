@@ -1,3 +1,7 @@
+# DEPRECATED
+
+This image is deprecated. Please use the official [library/openjdk](/r/library/openjdk) image, instead.
+
 # Supported tags and respective `Dockerfile` links
 
 * `java8`, `latest`, `8u171` [(Dockerfile)](https://github.com/gizmotronic/docker-openjdk/blob/master/openjdk8/Dockerfile)
